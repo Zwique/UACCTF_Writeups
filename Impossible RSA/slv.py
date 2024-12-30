@@ -1,4 +1,4 @@
-from Crypto.Util.number import *
+from Crypto.Util.number import inverse
 
 # Ciphertext array representing the encrypted message
 ciphertext = [399, 792, 895, 889, 500, 691, 328, 656, 329, 212, 188, 733, 261, 420, 188, 548, 261, 399, 188, 717, 631, 631, 407, 172]
