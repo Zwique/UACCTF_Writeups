@@ -34,4 +34,7 @@ Consider using an [online RSA decoder](https://www.dcode.fr/rsa-cipher).
 
 Another option to solve this challenge is simply writing a script to get the flag. Check out the `slv.py`.
 
+### Requirement to execute the code
+```pip3 install pycryptodome```
+
 Flag: `uacCTF{RSA_g0d_Y0u_1337}`
