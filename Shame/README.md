@@ -1,4 +1,4 @@
-# Shame
+# Shame - UAC CTF Challenge
 
 <img width="496" alt="Screenshot 2024-12-30 at 21 51 05" src="https://github.com/user-attachments/assets/e8a60570-d2e9-4549-b232-6ec578c9cb6d" />
 
