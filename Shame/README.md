@@ -61,3 +61,8 @@ Recovered FLAG: HELLO
 ```
 
 This process shows that the XOR operation is symmetrical, and applying the key twice (once for encryption and once for decryption) retrieves the original data.
+
+# Solution
+By simply replacing each XORed character with the result of another XOR using the same key, the original plaintext can be easily retrieved. Run ```slv.cpp``` OR ```slv.py``` to receive the flag.
+
+Flag: ``
