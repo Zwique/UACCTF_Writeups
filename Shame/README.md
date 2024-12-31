@@ -65,4 +65,4 @@ This process shows that the XOR operation is symmetrical, and applying the key t
 # Solution
 By simply replacing each XORed character with the result of another XOR using the same key, the original plaintext can be easily retrieved. Run ```slv.cpp``` OR ```slv.py``` to receive the flag.
 
-Flag: ``
+Flag: `uacCTF{YoR_ArE_tHe_g0D}`
